@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: 2db3c4675ae211846ae7d2032c5ee950
+timeCreated: 1494794751
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spriteSeseljWalk_0
+    21300002: spriteSeseljWalk_1
+    21300004: spriteSeseljWalk_2
+    21300006: spriteSeseljWalk_3
+    21300008: spriteSeseljWalk_4
+    21300010: spriteSeseljWalk_5
+    21300012: spriteSeseljWalk_6
+    21300014: spriteSeseljWalk_7
+    21300016: spriteSeseljWalk_8
+    21300018: spriteSeseljWalk_9
+    21300020: spriteSeseljWalk_10
+    21300022: spriteSeseljWalk_11
+    21300024: spriteSeseljWalk_12
+    21300026: spriteSeseljWalk_13
+    21300028: spriteSeseljWalk_14
+    21300030: spriteSeseljWalk_15
+    21300032: spriteSeseljWalk_16
+    21300034: spriteSeseljWalk_17
+    21300036: spriteSeseljWalk_18
+    21300038: spriteSeseljWalk_19
+    21300040: spriteSeseljWalk_20
+    21300042: spriteSeseljWalk_21
+    21300044: spriteSeseljWalk_22
+    21300046: spriteSeseljWalk_23
+    21300048: spriteSeseljWalk_24
+    21300050: spriteSeseljWalk_25
+    21300052: spriteSeseljWalk_26
+    21300054: spriteSeseljWalk_27
+    21300056: spriteSeseljWalk_28
+    21300058: spriteSeseljWalk_29
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spriteSeseljWalk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1788
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljWalk_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1788
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljWalk_2
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1788
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljWalk_3
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1788
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljWalk_4
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1788
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljWalk_5
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1788
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljWalk_6
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1788
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljWalk_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1490
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljWalk_8
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1490
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljWalk_9
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1490
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljWalk_10
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1490
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljWalk_11
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1490
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljWalk_12
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1490
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljWalk_13
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1490
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljWalk_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1192
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljWalk_15
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1192
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljWalk_16
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1192
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljWalk_17
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1192
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljWalk_18
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1192
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljWalk_19
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1192
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljWalk_20
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1192
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljWalk_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 894
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljWalk_22
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 894
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljWalk_23
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 894
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljWalk_24
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 894
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljWalk_25
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 894
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljWalk_26
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 894
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljWalk_27
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 894
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljWalk_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 596
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljWalk_29
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 596
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: 731cdece4352c3244a74c3f2900e3efe
+timeCreated: 1494785167
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spriteSeseljIdle2_0
+    21300002: spriteSeseljIdle2_1
+    21300004: spriteSeseljIdle2_2
+    21300006: spriteSeseljIdle2_3
+    21300008: spriteSeseljIdle2_4
+    21300010: spriteSeseljIdle2_5
+    21300012: spriteSeseljIdle2_6
+    21300014: spriteSeseljIdle2_7
+    21300016: spriteSeseljIdle2_8
+    21300018: spriteSeseljIdle2_9
+    21300020: spriteSeseljIdle2_10
+    21300022: spriteSeseljIdle2_11
+    21300024: spriteSeseljIdle2_12
+    21300026: spriteSeseljIdle2_13
+    21300028: spriteSeseljIdle2_14
+    21300030: spriteSeseljIdle2_15
+    21300032: spriteSeseljIdle2_16
+    21300034: spriteSeseljIdle2_17
+    21300036: spriteSeseljIdle2_18
+    21300038: spriteSeseljIdle2_19
+    21300040: spriteSeseljIdle2_20
+    21300042: spriteSeseljIdle2_21
+    21300044: spriteSeseljIdle2_22
+    21300046: spriteSeseljIdle2_23
+    21300048: spriteSeseljIdle2_24
+    21300050: spriteSeseljIdle2_25
+    21300052: spriteSeseljIdle2_26
+    21300054: spriteSeseljIdle2_27
+    21300056: spriteSeseljIdle2_28
+    21300058: spriteSeseljIdle2_29
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spriteSeseljIdle2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1788
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljIdle2_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1788
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljIdle2_2
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1788
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljIdle2_3
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1788
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljIdle2_4
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1788
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljIdle2_5
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1788
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljIdle2_6
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1788
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljIdle2_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1490
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljIdle2_8
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1490
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljIdle2_9
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1490
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljIdle2_10
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1490
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljIdle2_11
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1490
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljIdle2_12
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1490
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljIdle2_13
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1490
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljIdle2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1192
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljIdle2_15
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1192
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljIdle2_16
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1192
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljIdle2_17
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1192
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljIdle2_18
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1192
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljIdle2_19
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1192
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljIdle2_20
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1192
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljIdle2_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 894
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljIdle2_22
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 894
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljIdle2_23
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 894
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljIdle2_24
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 894
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljIdle2_25
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 894
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljIdle2_26
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 894
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljIdle2_27
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 894
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljIdle2_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 596
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spriteSeseljIdle2_29
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 596
+        width: 298
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
